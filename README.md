@@ -1,7 +1,7 @@
 # datamining互评作业3
 互评作业三：基于决策树的客户流失预测
 WA_Fn-UseC_-Telco-Customer-Churn.csv为数据集： Telco Customer Churn https://www.kaggle.com/blastchar/telco-customer-churn
-
+姓名：邓永琪  学号：3220221018
 task2.py为代码，运行即可
 1. 数据预处理：将数据类型转换为数值类型。
 2. 特征选择：使用递归特征消除等方法，选择对目标变量（客户流失）具有较大影响的特征。
